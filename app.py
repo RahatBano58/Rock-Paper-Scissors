@@ -4,6 +4,9 @@ import random
 # Custom CSS for styling
 st.markdown("""
     <style>
+    .stApp {
+        background: linear-gradient(135deg, #ba5ef7, #7aded9);
+    }
     body {
         background-color: #1e1e1e;
         color: white;
