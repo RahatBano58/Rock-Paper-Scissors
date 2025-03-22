@@ -119,4 +119,4 @@ if st.button("🔄 Reset Game"):
     st.rerun()  # ✅ Correct method to restart Streamlit app
 
 # Footer
-st.markdown("<h4 style='text-align: center; color: #fa3285; margin-top: 20px; margin-bottom: 20px; font-size: 20px; font-weight: bold; transform: scale(1.2);'>Made with ❤️ by Rahat Bano</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; color: #fa3285; margin-top: 20px; margin-bottom: 20px; font-size: 20px; font-weight: bold; transform: scale(1.2);'>Made by ❤️ Rahat Bano</h4>", unsafe_allow_html=True)
